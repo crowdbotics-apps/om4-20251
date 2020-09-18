@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import Achievements10103256Navigator from '../features/Achievements10103256/navigator';
 import SignIn42101064Navigator from '../features/SignIn42101064/navigator';
 import UserProfile3101063Navigator from '../features/UserProfile3101063/navigator';
-import Tutorial4101062Navigator from '../features/Tutorial4101062/navigator';
 import Dashboard15101061Navigator from '../features/Dashboard15101061/navigator';
 
 /**
@@ -21,7 +20,6 @@ const AppNavigator = {
 Achievements10103256: { screen: Achievements10103256Navigator },
 SignIn42101064: { screen: SignIn42101064Navigator },
 UserProfile3101063: { screen: UserProfile3101063Navigator },
-Tutorial4101062: { screen: Tutorial4101062Navigator },
 Dashboard15101061: { screen: Dashboard15101061Navigator },
 
     /** new navigators can be added here */
