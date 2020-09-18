@@ -15,7 +15,6 @@ export function* mainSaga() {
 
 
     //@BlueprintReduxSagaMainInsertion
-CalendarView15103380Saga,
     
   ]);
 }
